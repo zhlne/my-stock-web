@@ -8,8 +8,8 @@ import time
 
 # --- 1. 使用者數據設定 (在這裡設定 5 個人的股票) ---
 USERS = {
-    "zhlne": {"password": "1007", "tw": ["2330", "2317"], "us": ["VOO", "NVDA"]},
-    "cyyan": {"password": "0401", "tw": ["2454"], "us": ["AAPL", "TSLA"]},
+    "zhlne": {"password": "1007", "tw": ["2330", "0050","0052","006208"], "us": ["VOO"]},
+    "cyyan": {"password": "0401", "tw": ["0050"], "us": ["VOO"]},
     "user2": {"password": "qwe", "tw": ["2303", "2881"], "us": ["MSFT"]},
     "user3": {"password": "zxc", "tw": ["2603"], "us": ["GOOGL"]},
     "user4": {"password": "789", "tw": ["2330"], "us": ["AMZN"]}
